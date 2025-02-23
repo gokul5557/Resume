@@ -1,4 +1,3 @@
-```
 **GOKUL V**
 Nagar, Ulundurpet (TK), Kallakuruchi (DT), Tamil Nadu, India
 Phone: +91 8220442790 | Email: gokul3002001@gmail.com | LinkedIn: linkedin.com/in/gokul-cse | GitHub: github.com/gokul5557/Projects | TryHackMe: [Your TryHackMe Profile URL]
@@ -63,19 +62,3 @@ Cybersecurity specialist aspiring to leverage expertise in AI/ML, networking, an
 * Passionate about open-source contributions and security research.
 * Enthusiastic about AI-driven cybersecurity innovations.
 * Available for internships and cybersecurity roles. Open to relocation.
-
-
-```
-
-**Key Improvements:**
-
-* **Stronger Summary:**  More concise and impactful, highlighting key skills and career goals.
-* **Prioritized Skills:** Cybersecurity skills are listed first.
-* **Quantified Achievements:**  Added quantifiable metrics to projects and experience where possible.  *Crucially*, you *must* fill in the bracketed placeholders with your *actual* numbers.  This is the most important part of making your resume stand out.
-* **Combined Certifications:** Grouped related certifications for better readability.
-* **Clearer Project Descriptions:** Focused on the impact and key technologies used.
-* **Concise Formatting:**  Improved readability and ATS compatibility.
-* **Removed Redundancy:** Eliminated duplicate entries.
-* **Call to Action Implied:** The summary and additional information clearly state your availability and interests.
-
-Remember to replace the bracketed placeholders with your specific details and tailor this resume to each job application.  Good luck!
